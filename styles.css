@@ -127,5 +127,8 @@ details[open] > summary::after {
       height: 400.972px;
       flex-shrink: 0;
     }
+    .arrow:hover {
+      color: orange;
+    }
   }
 }
